@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jorge Beltrán</title>
+    <link>https://beltransen.github.io/home/</link>
+    <description>Recent content in Homes on Jorge Beltrán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://beltransen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://beltransen.github.io/home/about/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m currently doing my PhD at UC3M, in Madrid. My thesis is about 3D object detection for autonomous vehicles, fusing LiDAR and visual information with deep learning techniques. Although my background is in Computer Science, once I finished my Bachelor I decided to do a Master in Robotics. This move led me to my actual place in life, the Intelligent Systems Lab, where I&amp;rsquo;ve been working (and learning!) since then.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://beltransen.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://beltransen.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://beltransen.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://beltransen.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://beltransen.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://beltransen.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/teaching/</guid>
+      <description>Since I started my PhD. studies, I&amp;rsquo;ve been teaching some undergraduate courses in the Bachelor in Industrial Electronics and Automation, at UC3M:
+ Perception Systems, Fall 2017 Computing Systems I, Fall 2017 Computing Systems II, Fall 2017 Computing Systems I, Fall 2016 Computing Systems II, Fall 2016  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://beltransen.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://beltransen.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://beltransen.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
