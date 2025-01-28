@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://beltransen.github.io:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://beltransen.github.io:1313/publications/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://beltransen.github.io:1313/publication_types/article-journal/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/journal_sianms/</loc>
+    <loc>https://beltransen.github.io:1313/journals/journal_sianms/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/journal/</loc>
+    <loc>https://beltransen.github.io:1313/tags/journal/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/</loc>
+    <loc>https://beltransen.github.io:1313/journals/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://beltransen.github.io:1313/publication_types/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://beltransen.github.io:1313/tags/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://beltransen.github.io:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://beltransen.github.io:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/journal_velo2cam/</loc>
+    <loc>https://beltransen.github.io:1313/journals/journal_velo2cam/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/journal_birdnet/</loc>
+    <loc>https://beltransen.github.io:1313/journals/journal_birdnet/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/journal_tornado/</loc>
+    <loc>https://beltransen.github.io:1313/journals/journal_tornado/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/journals/journal_jointsemseg/</loc>
+    <loc>https://beltransen.github.io:1313/journals/journal_jointsemseg/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jorge Beltrán</title>
-    <link>http://localhost:1313/publications/</link>
-      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://beltransen.github.io:1313/publications/</link>
+      <atom:link href="https://beltransen.github.io:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_33da03c5fe32f56a.png</url>
+      <url>https://beltransen.github.io:1313/media/icon_hu_33da03c5fe32f56a.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://beltransen.github.io:1313/publications/</link>
     </image>
     
   </channel>
