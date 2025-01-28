@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal | Jorge Beltrán</title>
-    <link>https://beltransen.github.io:1313/tags/journal/</link>
-      <atom:link href="https://beltransen.github.io:1313/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://beltransen.github.io/tags/journal/</link>
+      <atom:link href="https://beltransen.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://beltransen.github.io:1313/media/icon_hu_33da03c5fe32f56a.png</url>
+      <url>https://beltransen.github.io/media/icon_hu_33da03c5fe32f56a.png</url>
       <title>Journal</title>
-      <link>https://beltransen.github.io:1313/tags/journal/</link>
+      <link>https://beltransen.github.io/tags/journal/</link>
     </image>
     
     <item>
       <title>Joint object detection and re-identification for 3D obstacle multi-camera systems</title>
-      <link>https://beltransen.github.io:1313/journals/journal_sianms/</link>
+      <link>https://beltransen.github.io/journals/journal_sianms/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://beltransen.github.io:1313/journals/journal_sianms/</guid>
+      <guid>https://beltransen.github.io/journals/journal_sianms/</guid>
       <description>&lt;!-- 
 
 
@@ -53,9 +53,9 @@
     
     <item>
       <title>Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups</title>
-      <link>https://beltransen.github.io:1313/journals/journal_velo2cam/</link>
+      <link>https://beltransen.github.io/journals/journal_velo2cam/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://beltransen.github.io:1313/journals/journal_velo2cam/</guid>
+      <guid>https://beltransen.github.io/journals/journal_velo2cam/</guid>
       <description>&lt;!-- 
 
 
@@ -94,9 +94,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>BirdNet&#43;: Two-Stage 3D Object Detection in LiDAR Through a Sparsity-Invariant Bird’s Eye View</title>
-      <link>https://beltransen.github.io:1313/journals/journal_birdnet/</link>
+      <link>https://beltransen.github.io/journals/journal_birdnet/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://beltransen.github.io:1313/journals/journal_birdnet/</guid>
+      <guid>https://beltransen.github.io/journals/journal_birdnet/</guid>
       <description>&lt;!-- 
 
 
@@ -135,9 +135,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>The tornado project: An automated driving demonstration in peri-urban and rural areas</title>
-      <link>https://beltransen.github.io:1313/journals/journal_tornado/</link>
+      <link>https://beltransen.github.io/journals/journal_tornado/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://beltransen.github.io:1313/journals/journal_tornado/</guid>
+      <guid>https://beltransen.github.io/journals/journal_tornado/</guid>
       <description>&lt;!-- 
 
 
@@ -176,9 +176,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Joint semantic segmentation of road objects and lanes using Convolutional Neural Networks</title>
-      <link>https://beltransen.github.io:1313/journals/journal_jointsemseg/</link>
+      <link>https://beltransen.github.io/journals/journal_jointsemseg/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://beltransen.github.io:1313/journals/journal_jointsemseg/</guid>
+      <guid>https://beltransen.github.io/journals/journal_jointsemseg/</guid>
       <description>&lt;!-- 
 
 
